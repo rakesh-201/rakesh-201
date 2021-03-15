@@ -10,11 +10,11 @@
 <h3>Tech Stack worked with:</h3>
 
 <h4>Web Development:</h4>
-- HTML, CSS, JS 
-- React 
-- Django 
-- Flask 
-- Express.js
+* HTML, CSS, JS 
+* React 
+* Django 
+* Flask 
+* Express.js
 
 <h4>Mobile Development:</h4>
 - React Native
