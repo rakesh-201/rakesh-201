@@ -5,26 +5,26 @@
 <p>I am a Fullstack Web Developer and a React Native Developer.</p>
 
 <h3>My Education:</h3>
-<p>Currently pursuing my Bachelor's degree in IT @VJTI Matunga Mumbai Maharashtra</p>
+<p>Currently pursuing my Bachelor's degree in IT @VJTI Matunga Mumbai</p>
 
 <h3>Tech Stack worked with:</h3>
 
 <h4>Web Development:</h4>
-* HTML, CSS, JS 
-* React 
-* Django 
-* Flask 
-* Express.js
+<p> HTML, CSS, JS </p>
+<p> React </p>
+<p> Django </p>
+<p> Flask </p>
+<p> Express.js</p>
 
 <h4>Mobile Development:</h4>
-- React Native
+<p> React Native</p>
 
 <h4>Languages: </h4>
-- C 
-- C++ 
-- Python 
-- JavaScript 
-- TypeScript
+<p> C </p>
+<p> C++ </p>
+<p> Python </p>
+<p> JavaScript </p>
+<p> TypeScript</p>
 
 <h3>Repositories: 30</h3>
 
