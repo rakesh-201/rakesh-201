@@ -26,7 +26,7 @@
 <p> JavaScript </p>
 <p> TypeScript</p>
 
-<h3>Repositories: 30</h3>
+<h3>Repositories: 20</h3>
 
 
 <!--
