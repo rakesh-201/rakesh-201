@@ -5,7 +5,7 @@
 <p>I am a Fullstack Web Developer and a React Native Developer.</p>
 
 <h3>My Education:</h3>
-<p>Currently pursuing my Bachelor's degree in IT @VJTI Matunga Mumbai</p>
+<p>Currently pursuing my Bachelor's degree in IT @Veermata Jijabai Technological Institute, Matunga, Mumbai</p>
 
 <h3>Tech Stack worked with:</h3>
 
