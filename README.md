@@ -1,6 +1,8 @@
 <h1>Hello there 👋,</h1>
-<h2>Rakesh Here,</h2>
+<h2>I'm 
 
+![Banner](https://github.com/rakesh-201/rakesh-201/blob/main/Profile.gif?raw=true)
+</h2>
 <h3>Who I am: </h3>
 <p>I am a Fullstack Web Developer and a React Native Developer.</p>
 
