@@ -1,13 +1,14 @@
 <h1>Hello there 👋,</h1>
-<h2>I'm 
+<h2>I'm, 
+  <br></br>
 
 ![Banner](https://github.com/rakesh-201/rakesh-201/blob/main/Profile.gif?raw=true)
 </h2>
-<h3>Who I am: </h3>
-<p>I am a Fullstack Web Developer and a React Native Developer.</p>
+<h3>What I do:</h3>
+I'm a problem solver admitted toward solving real world problems. I have worked with various technologies in domains like Web Development and Cross Platform Mobile application Development to build solution to some problem I observe in and around me, and will continue to do so.
 
 <h3>My Education:</h3>
-<p>Currently pursuing my Bachelor's degree in IT @Veermata Jijabai Technological Institute, Matunga, Mumbai</p>
+<p>Currently pursuing my Bachelor's degree in IT @Veermata Jijabai Technological Institute, Matunga, Mumbai.</p>
 
 <h3>Tech Stack worked with:</h3>
 
